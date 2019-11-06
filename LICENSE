@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2019 ARAMIS Lab
+Copyright © 2015-2019 ARAMIS Lab, http://aramislab.fr/
+(authors: Émilie Gerardin, Ana B. Graciano Fouquier, Alexis Guyot)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,36 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+----------------------------------------------------------------------
+
+Several files present in this folder came from other projects with a specific LICENSE file that is included below.
+
+The following file is copyright of Denis Schwartz & Guillaume Flandin (2003):
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/brainvisa/loadmesh.m
+This was released under the the terms of the GNU General Public License as
+published by the Free Software Foundation.
+
+The following file is copyright of Arnaud Delorme (2003):
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/brainvisa/plotmesh.m
+This was released under the the terms of the GNU General Public License as
+published by the Free Software Foundation.
+
+The following file is copyright of Guillaume Flandin (2003):
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/brainvisa/savemesh.m 
+This was released under the the terms of the GNU General Public License as
+published by the Free Software Foundation.
+
+Full text for the GNU General Public License, Version 2, June 1991 is available in
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/brainvisa/
+
+The following file is copyright of Inria and the University of Utah:
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/vtk/VTKPolyDataReader.m 
+This was released under the the terms of the Inria Non-Commercial License Agreement.
+
+The following file is copyright of Inria and the University of Utah:
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/vtk/VTKPolyDataWriter.m
+This was released under the the terms of the Inria Non-Commercial License Agreement.
+
+Full text for the GNU General Public License, Version 2, June 1991 is available in
+./centralSurfacesAndThicknessCode/externalLibraries/matlab/vtk/
