@@ -1,4 +1,6 @@
-# 7T Hippocampus Thickness from Diffeomorphic Vector Field
+# hiplay7-thickness
+
+*7T Hippocampus Thickness from Diffeomorphic Vector Field*
 
 Code to extract central surface representations along with thickness
 maps from MR images of the hippocampus at 7 Tesla.
@@ -171,4 +173,4 @@ populated with the following folders:
 
 With the exceptions of files taken from external libraries, this code is
 released under the terms of the MIT License.
-See file LICENSE.txt for further precisions.
+See file LICENSE for further precisions.
