@@ -1,19 +1,18 @@
 # hiplay7-thickness
 
-*7T Hippocampus Thickness from Diffeomorphic Vector Field*
+*Measure the thickness of the hippocampus from 7T MRI using a diffeomorphic vector field approach*
 
-Code to extract central surface representations along with thickness
-maps from MR images of the hippocampus at 7 Tesla.
+**Authors**: Émilie Gerardin ([ARAMIS Lab](http://www.aramislab.fr)), Ana B.
+Graciano Fouquier ([ARAMIS Lab](http://www.aramislab.fr)), Alexis Guyot ([ARAMIS Lab](http://www.aramislab.fr)).
 
-**Authors**: Émilie Gerardin (Brain and Spine Institute), Ana B.
-Graciano Fouquier(Brain and Spine Institute), Alexis Guyot (Brain and
-Spine Institute).
+This software tool allows to extract central surface representations along with thickness
+maps from MR images of the hippocampus at 7 Tesla. More tools and resources to study the hippocampus using 7T MRI are
+available at http://www.aramislab.fr/sevenhipp/ .
 
 
 ## Overview
 
-This folder contains all the code to run the experiments presented in
-the following article:
+For any use of this code, please cite the following article:
 > A Guyot\*, AB Graciano Fouquier\*, É Gerardin\*, M Chupin, JA Glaunès,
 > L Marrakchi-Kacem, J Germain, C Boutet, C Cury, L Hertz-Pannier,
 > A Vignaud, S Durrleman, TR Henry, PF Van de Moortele, A Trouvé,
