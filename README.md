@@ -21,7 +21,7 @@ For any use of this code, please cite the following article:
 > 'A Diffeomorphic Vector Field Approach to Analyze the Thickness of the
 > Hippocampus from 7T MRI'
 
-This article is available at https://hal.inria.fr/hal-02359660/document .
+This article is available at https://hal.inria.fr/hal-02359660 .
 
 ## Installation
 
