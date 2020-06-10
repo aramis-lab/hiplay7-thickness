@@ -19,7 +19,7 @@ For any use of this code, please cite the following article:
 > O Colliot.
 > (\* denotes equal first authors)
 > 'A Diffeomorphic Vector Field Approach to Analyze the Thickness of the
-> Hippocampus from 7T MRI', *IEEE Transactions on Biomedical Engineering*, 2020
+> Hippocampus from 7T MRI', *IEEE Transactions on Biomedical Engineering*, 2020, DOI: 10.1109/TBME.2020.2999941
 
 This article is available at https://hal.inria.fr/hal-02359660 .
 
